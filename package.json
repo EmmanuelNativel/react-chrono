@@ -1,17 +1,17 @@
 {
-  "name": "react-chrono",
+  "name": "react-chrono-templated",
   "version": "1.7.8",
   "license": "MIT",
-  "description": "A Modern Timeline component for React",
+  "description": "Extension of react-chrono package with events and templates",
   "keywords": [
     "timeline",
     "react-timeline",
     "horizontal-timeline",
     "vertical-timeline"
   ],
-  "author": "Prabhu Murthy",
+  "author": "Nativel Emmanuel",
   "repository": {
-    "url": "https://github.com/prabhuignoto/react-chrono",
+    "url": "https://github.com/EmmanuelNativel/react-chrono.git",
     "type": "git"
   },
   "scripts": {
